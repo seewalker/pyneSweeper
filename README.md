@@ -2,7 +2,6 @@ pyneSweeper
 ===========
 
 A Minesweeper Clone                                                  
-                                                                     
                                              
 ## Usage
 
@@ -16,14 +15,20 @@ in question as the command line argument.
 
 ## Screenshots
 When the game is ongoing...
+
 ![Midgame](https://raw.github.com/seewalker/pyneSweeper/master/images/Midgame.png)
+
 When the game ends in defeat...
+
 ![Defeat](https://raw.github.com/seewalker/pyneSweeper/master/images/Defeat.png)
+
 When the game ends in victory...
+
 ![Victory](https://raw.github.com/seewalker/pyneSweeper/master/images/Victory.png)
 
 ## Dependencies
 a shell such as bash, zsh, tcsh.
+
 python 2.x
 
 pygame
