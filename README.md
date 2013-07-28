@@ -14,6 +14,11 @@ Expert).
    To see a summary of game statistics, run the script 'stats.py' with the username
 in question as the command line argument. 
 
+## Screenshots
+![Midgame](https://raw.github.com/seewalker/pyneSweeper/master/images/Midgame.png)
+![Defeat](https://raw.github.com/seewalker/pyneSweeper/master/images/Defeat.png)
+![Victory](https://raw.github.com/seewalker/pyneSweeper/master/images/Victory.png)
+
 ## Dependencies
 a shell such as bash, zsh, tcsh.
 python 2.x
